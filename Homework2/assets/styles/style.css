@@ -1,0 +1,63 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+a {
+text-decoration: none;
+}
+
+.title {
+    color: rgb(5, 80, 5);
+    background-color: rgb(255, 235, 205, 0.5);
+}
+
+.img_log {
+    width: 400px;
+    height: 500px;
+}
+.figure-wrapper {
+    display: inline-block;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.menu_cl{
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.h2_title{
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
+
+.input_contacts{
+    width: 200px;
+    height: 30px;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.input_button{
+    padding: 15px;
+    font-size: 14px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    background-color: rgb(255, 235, 205, 0.5);
+}
+
+.input_button:hover {
+    padding: 15px;
+    font-size: 14px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    background-color: rgb(5, 80, 5);
+}
